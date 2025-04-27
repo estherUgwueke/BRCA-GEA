@@ -34,7 +34,7 @@ Parameters | Description
 ## 🏁 Quick Start
 ⚡ Recommendation to run the pipeline:
 
-Access to a database?: Run brca-deseq_pipeline.sh 
+Access to a database?: Run brca_deseq_pipeline.sh 
 
 No database access? Run differential expression and visualization Python scripts only.
 
@@ -55,7 +55,7 @@ conda activate “env_name”
 
 3. Run the pipeline using bash
 ```bash
-bash brca-deseq_pipeline.sh 
+bash brca_deseq_pipeline.sh 
 ```
 
 ## 👥 Users 
