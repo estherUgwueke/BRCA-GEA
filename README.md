@@ -3,7 +3,7 @@
 ![Pipeline_Image](https://github.com/user-attachments/assets/725b54a9-3d52-4021-b542-8d0bb51b1844)
 
 ## 🧬 Overview
-BRCA-DESeq
+BRCA-DESeq:
 A pipeline for RNA sequencing data analysis from breast cancer patients to determine which genes are differently expressed between tumor subtypes and normal breast tissue. It is designed as an easy-to-use computational analysis tool to help researchers identify patterns in breast cancer genetics more quickly, such as overexpressed or underexpressed genes, promote the discovery of possible therapeutic targets, and improve current understanding of breast cancer development.
 
 ##### Dependencies/Package versions: 
